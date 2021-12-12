@@ -1,0 +1,41 @@
+body
+{
+    background-color: #FFAE9E;
+background-position: center;
+}
+
+.heading
+{
+    font-family: 'Bubblegum Sans', cursive;
+    font-size: 25px;
+width: 100%;
+margin: 0px;
+box-shadow: 5px 5px 5px whitesmoke;
+background-color: #9EFFCF;
+}
+
+.note
+{
+    font-size: 15px;
+    color: black;
+    font-family: 'Bubblegum Sans', cursive;}
+
+.copy_right_footer
+{
+    font-family: 'Parisienne', cursive;
+position:fixed;
+color: black;
+bottom: 0;
+width: 100%;
+background-color: #9EFFCF;
+line-height: 3;
+text-align: center;
+}
+
+
+canvas
+{
+    border: 5px solid black;
+    box-shadow: 5px 5px 5px whitesmoke;
+
+}
