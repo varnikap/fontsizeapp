@@ -35,7 +35,8 @@ text-align: center;
 
 canvas
 {
-    border: 5px solid black;
-    box-shadow: 5px 5px 5px whitesmoke;
-
+    background-color: white;
+border: 5px solid black;
+border-radius: 20px;
+box-shadow: 5px 5px 5px grey;
 }
